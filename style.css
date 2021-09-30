@@ -1,0 +1,30 @@
+.page-wrapper {
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+	float: left;
+	background-color: red;
+}
+
+.page-container {
+	width: 80%;
+	margin: 0 10%;
+	height: auto;
+	overflow: hidden;
+	float: left;
+	background-color: orange;
+}
+
+.text-container {
+	width: 50%;
+	margin: 0 25%;
+	height: auto;
+	overflow: hidden;
+	background-color: yellow;
+}
+
+.text-container h1 {
+	font-size: 150px;
+	background-color: green;
+	color: blue;
+}
